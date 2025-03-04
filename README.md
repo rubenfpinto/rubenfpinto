@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Ruben
 
 I'm passionate about of Technology, Financial Markets, and Cinematography.
-Currently I'm work as a FullStack Developer but allways sharpening my skills actively learn more and improve.
+Currently I'm working as a FullStack Developer but allways sharpening my skills actively learning more and improve.
 
 ⚙️ Technical Skills
 Backend: C# .NET CORE, ASP.Net MVC
@@ -13,7 +13,7 @@ Version Control: Git
 🌱 I’m currently learning more about c# .Net Core and starting to learn about ReactJS.
 
 💻 Technologies
-<div align="center">
+<div >
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" alt=".NET Core" title=".NET Core"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
