@@ -1,27 +1,28 @@
 ## Hi 👋, I'm Ruben
 
-I'm passionate about of Technology, Financial Markets, and Cinematography.
-Currently I'm working as a FullStack Developer but allways sharpening my skills actively learning more and improve.
+<p dir=auto>
+	I'm passionate about of Technology, Financial Markets, Music and Cinematography.
+	Currently I'm working as a FullStack Developer but allways sharpening my skills actively learning more and improve.
+</p>
 
-⚙️ Technical Skills
-Backend: C# .NET CORE, ASP.Net MVC
-Frontend: Javascript, Jquery, Hmtl, CSS, Bootstrap
-Database: SQL
-Agile: Scrum
-Version Control: Git
+ 🌱 I’m currently learning more about c# .Net Core and starting to learn about ReactJS.
 
-🌱 I’m currently learning more about c# .Net Core and starting to learn about ReactJS.
+## ⚙️ Technical Skills
+<p dir=auto>
+	Backend: C# .NET CORE, ASP.Net MVC
+	<br>
+	Frontend: Javascript, Jquery, Hmtl, CSS, Bootstrap
+	<br>
+	Database: SQL
+	<br>
+	Agile: Scrum
+	<br>
+	Version Control: Git
+</p>
 
-💻 Technologies
-<div >
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" alt=".NET Core" title=".NET Core"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" alt="MSSQL" title="MSSQL"/></code>
-</div>
+## 💻 Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,jquery,html,css,bootstrap,git,github)](https://skillicons.dev)
 
 
 <!--
