@@ -1,4 +1,28 @@
-## Hi there 👋
+## Hi 👋, I'm Ruben
+
+I'm passionate about of Technology, Financial Markets, and Cinematography.
+Currently I'm work as a FullStack Developer but allways sharpening my skills actively learn more and improve.
+
+⚙️ Technical Skills
+Backend: C# .NET CORE, ASP.Net MVC
+Frontend: Javascript, Jquery, Hmtl, CSS, Bootstrap
+Database: SQL
+Agile: Scrum
+Version Control: Git
+
+🌱 I’m currently learning more about c# .Net Core and starting to learn about ReactJS.
+
+💻 Technologies
+<div align="center">
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" alt=".NET Core" title=".NET Core"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" alt="MSSQL" title="MSSQL"/></code>
+</div>
+
 
 <!--
 **rubenfpinto/rubenfpinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
