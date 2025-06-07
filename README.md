@@ -5,7 +5,7 @@
 	Currently I'm working as a FullStack Developer but allways sharpening my skills actively learning more and improve.
 </p>
 
- 🌱 I’m currently learning more about c# .Net Core and starting to learn about ReactJS.
+ 🌱 I’m currently learning more about c# .Net Core and I'm starting to learn about ReactJS.
 
 ## ⚙️ Technical Skills
 <p dir=auto>
@@ -22,7 +22,7 @@
 
 ## 💻 Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,jquery,html,css,bootstrap,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,jquery,react,html,css,bootstrap,git,github)](https://skillicons.dev)
 
 
 <!--
