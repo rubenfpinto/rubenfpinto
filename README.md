@@ -5,7 +5,7 @@
 	Currently I'm working as a FullStack Developer but allways sharpening my skills actively learning more and improve.
 </p>
 
- 🌱 I’m currently learning more about c# .Net Core and I'm starting to learn about ReactJS.
+ 🌱 I’m currently learning more and improve about c# .Net Core and ReactJS.
 
 ## ⚙️ Technical Skills
 <p dir=auto>
