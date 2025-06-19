@@ -11,7 +11,7 @@
 <p dir=auto>
 	Backend: C# .NET CORE, ASP.Net MVC
 	<br>
-	Frontend: Javascript, Jquery, Hmtl, CSS, Bootstrap
+	Frontend: Javascript, Jquery, Hmtl, CSS, Bootstrap, React
 	<br>
 	Database: SQL
 	<br>
