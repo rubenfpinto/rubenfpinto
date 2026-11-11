@@ -16,6 +16,8 @@
 	Agile: Scrum
 	<br>
 	Version Control: Git
+	<br>
+	AI Agentic tools: Claude code, Codex
 </p>
 
 ## 💻 Technologies
